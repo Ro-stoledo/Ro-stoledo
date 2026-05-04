@@ -8,7 +8,7 @@ Pegar uma massa de dados e tratá-la usando diversas ferramentas, técnicas e cr
 
 Atualmente, venho desenvolvendo projetos utilizando ferramentas como Python (Pandas, Matplotlib/Seaborn), SQL e Excel, com foco em análise exploratória de dados, visualização e geração de insights.
 
-Neste repositório, estão projetos que simulam problemas reais de negócio, onde aplico essas ferramentas para gerar análises e recomendações baseadas em dados.
+Neste repositório estão projetos que simulam problemas reais de negócio, onde aplico essas ferramentas para gerar análises e recomendações baseadas em dados.
 
 Estou em busca de uma oportunidade como Analista de Dados, onde eu possa combinar minha experiência de negócio com habilidades técnicas em dados para gerar impacto real.
 
